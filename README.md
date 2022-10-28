@@ -12,3 +12,4 @@
 - Answer all the question above by ranking data on each catergory.
 ## 4. Data Virtualization: :signal_strength:
 - Showing how each features relate to each other using Pairplot, Heatmap and Scatter Plot
+## Contact me at sang.pham.8.12.96@gmail.com if you have any question. Have a great day! :slightly_smiling_face:
